@@ -67,7 +67,7 @@ export default function Dashboard() {
 
                 <div className="my-6">
                     <p className="text-gray-700 mb-1">
-                        Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elit, Sed Diam Nonumy Eirmod Tempor Invidunt Ut
+                        Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elit, Sed Diam Nonumy Eirmod Tempor Invidunt Utads
                     </p>
                 </div>
                 <div className="h-px bg-gray-200 my-2"></div>
